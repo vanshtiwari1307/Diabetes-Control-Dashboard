@@ -1,0 +1,225 @@
+Day,Group,Veg/Non-Veg,Meal,Time,Dish,Calories,Protein,Carbs,Fat,Fiber,Glycemic Index
+Day-1,Diabetic_NotActive,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,336,19.2,33.6,11.5,5.8,45
+Day-1,Diabetic_NotActive,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,345.6,23,28.8,9.6,4.8,47
+Day-1,Diabetic_Active,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,336,19.2,33.6,11.5,5.8,48
+Day-1,Diabetic_Active,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,345.6,23,28.8,9.6,4.8,52
+Day-1,NonDiabetic_NotActive,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,336,19.2,33.6,11.5,5.8,58
+Day-1,NonDiabetic_NotActive,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,345.6,23,28.8,9.6,4.8,62
+Day-1,NonDiabetic_Active,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,336,19.2,33.6,11.5,5.8,54
+Day-1,NonDiabetic_Active,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,345.6,23,28.8,9.6,4.8,56
+Day-2,Diabetic_NotActive,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,339.5,19.4,33.9,11.6,5.8,46
+Day-2,Diabetic_NotActive,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,349.2,23.3,29.1,9.7,4.8,48
+Day-2,Diabetic_Active,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,339.5,19.4,33.9,11.6,5.8,49
+Day-2,Diabetic_Active,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,349.2,23.3,29.1,9.7,4.8,53
+Day-2,NonDiabetic_NotActive,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,339.5,19.4,33.9,11.6,5.8,56
+Day-2,NonDiabetic_NotActive,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,349.2,23.3,29.1,9.7,4.8,60
+Day-2,NonDiabetic_Active,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,339.5,19.4,33.9,11.6,5.8,52
+Day-2,NonDiabetic_Active,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,349.2,23.3,29.1,9.7,4.8,54
+Day-3,Diabetic_NotActive,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,343,19.6,34.3,11.8,5.9,45
+Day-3,Diabetic_NotActive,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,352.8,23.5,29.4,9.8,4.9,46
+Day-3,Diabetic_Active,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,343,19.6,34.3,11.8,5.9,43
+Day-3,Diabetic_Active,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,352.8,23.5,29.4,9.8,4.9,54
+Day-3,NonDiabetic_NotActive,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,343,19.6,34.3,11.8,5.9,56
+Day-3,NonDiabetic_NotActive,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,352.8,23.5,29.4,9.8,4.9,61
+Day-3,NonDiabetic_Active,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,343,19.6,34.3,11.8,5.9,52
+Day-3,NonDiabetic_Active,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,352.8,23.5,29.4,9.8,4.9,54
+Day-4,Diabetic_NotActive,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,346.5,19.8,34.6,11.9,5.9,45
+Day-4,Diabetic_NotActive,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,356.4,23.8,29.7,9.9,5,48
+Day-4,Diabetic_Active,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,346.5,19.8,34.6,11.9,5.9,47
+Day-4,Diabetic_Active,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,356.4,23.8,29.7,9.9,5,51
+Day-4,NonDiabetic_NotActive,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,346.5,19.8,34.6,11.9,5.9,58
+Day-4,NonDiabetic_NotActive,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,356.4,23.8,29.7,9.9,5,63
+Day-4,NonDiabetic_Active,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,346.5,19.8,34.6,11.9,5.9,54
+Day-4,NonDiabetic_Active,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,356.4,23.8,29.7,9.9,5,56
+Day-5,Diabetic_NotActive,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,350,20,35,12,6,44
+Day-5,Diabetic_NotActive,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,360,24,30,10,5,46
+Day-5,Diabetic_Active,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,350,20,35,12,6,47
+Day-5,Diabetic_Active,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,360,24,30,10,5,53
+Day-5,NonDiabetic_NotActive,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,350,20,35,12,6,58
+Day-5,NonDiabetic_NotActive,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,360,24,30,10,5,62
+Day-5,NonDiabetic_Active,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,350,20,35,12,6,53
+Day-5,NonDiabetic_Active,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,360,24,30,10,5,57
+Day-6,Diabetic_NotActive,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,353.5,20.2,35.4,12.1,6.1,49
+Day-6,Diabetic_NotActive,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,363.6,24.2,30.3,10.1,5,48
+Day-6,Diabetic_Active,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,353.5,20.2,35.4,12.1,6.1,47
+Day-6,Diabetic_Active,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,363.6,24.2,30.3,10.1,5,53
+Day-6,NonDiabetic_NotActive,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,353.5,20.2,35.4,12.1,6.1,56
+Day-6,NonDiabetic_NotActive,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,363.6,24.2,30.3,10.1,5,63
+Day-6,NonDiabetic_Active,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,353.5,20.2,35.4,12.1,6.1,54
+Day-6,NonDiabetic_Active,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,363.6,24.2,30.3,10.1,5,58
+Day-7,Diabetic_NotActive,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,357,20.4,35.7,12.2,6.1,40
+Day-7,Diabetic_NotActive,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,367.2,24.5,30.6,10.2,5.1,45
+Day-7,Diabetic_Active,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,357,20.4,35.7,12.2,6.1,47
+Day-7,Diabetic_Active,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,367.2,24.5,30.6,10.2,5.1,50
+Day-7,NonDiabetic_NotActive,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,357,20.4,35.7,12.2,6.1,55
+Day-7,NonDiabetic_NotActive,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,367.2,24.5,30.6,10.2,5.1,60
+Day-7,NonDiabetic_Active,Veg,Breakfast,8:00 AM,Oats porridge with flax seeds + 1 cup sprouts,357,20.4,35.7,12.2,6.1,49
+Day-7,NonDiabetic_Active,Non-Veg,Breakfast,8:00 AM,Oats porridge + boiled egg whites + milk,367.2,24.5,30.6,10.2,5.1,50
+Day-1,Diabetic_NotActive,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,403.2,17.3,43.2,11.5,7.7,45
+Day-1,Diabetic_NotActive,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,460.8,30.7,48,13.4,5.8,49
+Day-1,Diabetic_Active,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,403.2,17.3,43.2,11.5,7.7,50
+Day-1,Diabetic_Active,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,460.8,30.7,48,13.4,5.8,54
+Day-1,NonDiabetic_NotActive,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,403.2,17.3,43.2,11.5,7.7,61
+Day-1,NonDiabetic_NotActive,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,460.8,30.7,48,13.4,5.8,64
+Day-1,NonDiabetic_Active,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,403.2,17.3,43.2,11.5,7.7,57
+Day-1,NonDiabetic_Active,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,460.8,30.7,48,13.4,5.8,59
+Day-2,Diabetic_NotActive,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,407.4,17.5,43.6,11.6,7.8,47
+Day-2,Diabetic_NotActive,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,465.6,31,48.5,13.6,5.8,50
+Day-2,Diabetic_Active,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,407.4,17.5,43.6,11.6,7.8,52
+Day-2,Diabetic_Active,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,465.6,31,48.5,13.6,5.8,58
+Day-2,NonDiabetic_NotActive,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,407.4,17.5,43.6,11.6,7.8,63
+Day-2,NonDiabetic_NotActive,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,465.6,31,48.5,13.6,5.8,60
+Day-2,NonDiabetic_Active,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,407.4,17.5,43.6,11.6,7.8,57
+Day-2,NonDiabetic_Active,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,465.6,31,48.5,13.6,5.8,59
+Day-3,Diabetic_NotActive,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,411.6,17.6,44.1,11.8,7.8,46
+Day-3,Diabetic_NotActive,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,470.4,31.4,49,13.7,5.9,48
+Day-3,Diabetic_Active,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,411.6,17.6,44.1,11.8,7.8,49
+Day-3,Diabetic_Active,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,470.4,31.4,49,13.7,5.9,52
+Day-3,NonDiabetic_NotActive,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,411.6,17.6,44.1,11.8,7.8,60
+Day-3,NonDiabetic_NotActive,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,470.4,31.4,49,13.7,5.9,63
+Day-3,NonDiabetic_Active,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,411.6,17.6,44.1,11.8,7.8,56
+Day-3,NonDiabetic_Active,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,470.4,31.4,49,13.7,5.9,55
+Day-4,Diabetic_NotActive,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,415.8,17.8,44.5,11.9,7.9,43
+Day-4,Diabetic_NotActive,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,475.2,31.7,49.5,13.9,5.9,48
+Day-4,Diabetic_Active,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,415.8,17.8,44.5,11.9,7.9,50
+Day-4,Diabetic_Active,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,475.2,31.7,49.5,13.9,5.9,53
+Day-4,NonDiabetic_NotActive,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,415.8,17.8,44.5,11.9,7.9,59
+Day-4,NonDiabetic_NotActive,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,475.2,31.7,49.5,13.9,5.9,64
+Day-4,NonDiabetic_Active,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,415.8,17.8,44.5,11.9,7.9,56
+Day-4,NonDiabetic_Active,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,475.2,31.7,49.5,13.9,5.9,60
+Day-5,Diabetic_NotActive,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,420,18,45,12,8,43
+Day-5,Diabetic_NotActive,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,480,32,50,14,6,48
+Day-5,Diabetic_Active,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,420,18,45,12,8,47
+Day-5,Diabetic_Active,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,480,32,50,14,6,52
+Day-5,NonDiabetic_NotActive,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,420,18,45,12,8,60
+Day-5,NonDiabetic_NotActive,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,480,32,50,14,6,62
+Day-5,NonDiabetic_Active,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,420,18,45,12,8,56
+Day-5,NonDiabetic_Active,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,480,32,50,14,6,58
+Day-6,Diabetic_NotActive,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,424.2,18.2,45.5,12.1,8.1,45
+Day-6,Diabetic_NotActive,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,484.8,32.3,50.5,14.1,6.1,48
+Day-6,Diabetic_Active,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,424.2,18.2,45.5,12.1,8.1,48
+Day-6,Diabetic_Active,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,484.8,32.3,50.5,14.1,6.1,52
+Day-6,NonDiabetic_NotActive,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,424.2,18.2,45.5,12.1,8.1,57
+Day-6,NonDiabetic_NotActive,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,484.8,32.3,50.5,14.1,6.1,60
+Day-6,NonDiabetic_Active,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,424.2,18.2,45.5,12.1,8.1,54
+Day-6,NonDiabetic_Active,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,484.8,32.3,50.5,14.1,6.1,57
+Day-7,Diabetic_NotActive,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,428.4,18.4,45.9,12.2,8.2,42
+Day-7,Diabetic_NotActive,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,489.6,32.6,51,14.3,6.1,47
+Day-7,Diabetic_Active,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,428.4,18.4,45.9,12.2,8.2,48
+Day-7,Diabetic_Active,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,489.6,32.6,51,14.3,6.1,52
+Day-7,NonDiabetic_NotActive,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,428.4,18.4,45.9,12.2,8.2,54
+Day-7,NonDiabetic_NotActive,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,489.6,32.6,51,14.3,6.1,60
+Day-7,NonDiabetic_Active,Veg,Lunch,1:00 PM,Whole wheat chapati + palak paneer + cucumber salad,428.4,18.4,45.9,12.2,8.2,57
+Day-7,NonDiabetic_Active,Non-Veg,Lunch,1:00 PM,Brown rice + grilled chicken curry + salad,489.6,32.6,51,14.3,6.1,59
+Day-1,Diabetic_NotActive,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),240,14.4,19.2,7.7,5.8,40
+Day-1,Diabetic_NotActive,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,259.2,17.3,9.6,14.4,3.8,45
+Day-1,Diabetic_Active,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),240,14.4,19.2,7.7,5.8,46
+Day-1,Diabetic_Active,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,259.2,17.3,9.6,14.4,3.8,50
+Day-1,NonDiabetic_NotActive,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),240,14.4,19.2,7.7,5.8,57
+Day-1,NonDiabetic_NotActive,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,259.2,17.3,9.6,14.4,3.8,60
+Day-1,NonDiabetic_Active,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),240,14.4,19.2,7.7,5.8,52
+Day-1,NonDiabetic_Active,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,259.2,17.3,9.6,14.4,3.8,55
+Day-2,Diabetic_NotActive,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),242.5,14.5,19.4,7.8,5.8,40
+Day-2,Diabetic_NotActive,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,261.9,17.5,9.7,14.5,3.9,43
+Day-2,Diabetic_Active,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),242.5,14.5,19.4,7.8,5.8,42
+Day-2,Diabetic_Active,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,261.9,17.5,9.7,14.5,3.9,46
+Day-2,NonDiabetic_NotActive,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),242.5,14.5,19.4,7.8,5.8,50
+Day-2,NonDiabetic_NotActive,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,261.9,17.5,9.7,14.5,3.9,58
+Day-2,NonDiabetic_Active,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),242.5,14.5,19.4,7.8,5.8,50
+Day-2,NonDiabetic_Active,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,261.9,17.5,9.7,14.5,3.9,54
+Day-3,Diabetic_NotActive,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),245,14.7,19.6,7.8,5.9,38
+Day-3,Diabetic_NotActive,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,264.6,17.6,9.8,14.7,3.9,40
+Day-3,Diabetic_Active,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),245,14.7,19.6,7.8,5.9,42
+Day-3,Diabetic_Active,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,264.6,17.6,9.8,14.7,3.9,48
+Day-3,NonDiabetic_NotActive,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),245,14.7,19.6,7.8,5.9,53
+Day-3,NonDiabetic_NotActive,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,264.6,17.6,9.8,14.7,3.9,57
+Day-3,NonDiabetic_Active,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),245,14.7,19.6,7.8,5.9,50
+Day-3,NonDiabetic_Active,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,264.6,17.6,9.8,14.7,3.9,52
+Day-4,Diabetic_NotActive,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),247.5,14.8,19.8,7.9,5.9,36
+Day-4,Diabetic_NotActive,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,267.3,17.8,9.9,14.8,4,42
+Day-4,Diabetic_Active,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),247.5,14.8,19.8,7.9,5.9,40
+Day-4,Diabetic_Active,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,267.3,17.8,9.9,14.8,4,45
+Day-4,NonDiabetic_NotActive,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),247.5,14.8,19.8,7.9,5.9,46
+Day-4,NonDiabetic_NotActive,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,267.3,17.8,9.9,14.8,4,47
+Day-4,NonDiabetic_Active,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),247.5,14.8,19.8,7.9,5.9,49
+Day-4,NonDiabetic_Active,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,267.3,17.8,9.9,14.8,4,50
+Day-5,Diabetic_NotActive,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),250,15,20,8,6,40
+Day-5,Diabetic_NotActive,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,270,18,10,15,4,43
+Day-5,Diabetic_Active,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),250,15,20,8,6,39
+Day-5,Diabetic_Active,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,270,18,10,15,4,47
+Day-5,NonDiabetic_NotActive,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),250,15,20,8,6,47
+Day-5,NonDiabetic_NotActive,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,270,18,10,15,4,52
+Day-5,NonDiabetic_Active,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),250,15,20,8,6,47
+Day-5,NonDiabetic_Active,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,270,18,10,15,4,50
+Day-6,Diabetic_NotActive,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),252.5,15.2,20.2,8.1,6.1,36
+Day-6,Diabetic_NotActive,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,272.7,18.2,10.1,15.2,4,39
+Day-6,Diabetic_Active,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),252.5,15.2,20.2,8.1,6.1,40
+Day-6,Diabetic_Active,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,272.7,18.2,10.1,15.2,4,42
+Day-6,NonDiabetic_NotActive,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),252.5,15.2,20.2,8.1,6.1,44
+Day-6,NonDiabetic_NotActive,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,272.7,18.2,10.1,15.2,4,46
+Day-6,NonDiabetic_Active,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),252.5,15.2,20.2,8.1,6.1,47
+Day-6,NonDiabetic_Active,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,272.7,18.2,10.1,15.2,4,49
+Day-7,Diabetic_NotActive,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),255,15.3,20.4,8.2,6.1,36
+Day-7,Diabetic_NotActive,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,275.4,18.4,10.2,15.3,4.1,38
+Day-7,Diabetic_Active,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),255,15.3,20.4,8.2,6.1,40
+Day-7,Diabetic_Active,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,275.4,18.4,10.2,15.3,4.1,42
+Day-7,NonDiabetic_NotActive,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),255,15.3,20.4,8.2,6.1,45
+Day-7,NonDiabetic_NotActive,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,275.4,18.4,10.2,15.3,4.1,48
+Day-7,NonDiabetic_Active,Veg,Snack,4:00 PM,Roasted chana + Greek yogurt (unsweetened),255,15.3,20.4,8.2,6.1,46
+Day-7,NonDiabetic_Active,Non-Veg,Snack,4:00 PM,Boiled egg + roasted peanuts,275.4,18.4,10.2,15.3,4.1,49
+Day-1,Diabetic_NotActive,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,307.2,21.1,17.3,11.5,6.7,44
+Day-1,Diabetic_NotActive,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,336,28.8,14.4,13.4,5.8,46
+Day-1,Diabetic_Active,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,307.2,21.1,17.3,11.5,6.7,49
+Day-1,Diabetic_Active,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,336,28.8,14.4,13.4,5.8,53
+Day-1,NonDiabetic_NotActive,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,307.2,21.1,17.3,11.5,6.7,60
+Day-1,NonDiabetic_NotActive,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,336,28.8,14.4,13.4,5.8,63
+Day-1,NonDiabetic_Active,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,307.2,21.1,17.3,11.5,6.7,55
+Day-1,NonDiabetic_Active,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,336,28.8,14.4,13.4,5.8,57
+Day-2,Diabetic_NotActive,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,310.4,21.3,17.5,11.6,6.8,43
+Day-2,Diabetic_NotActive,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,339.5,29.1,14.5,13.6,5.8,45
+Day-2,Diabetic_Active,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,310.4,21.3,17.5,11.6,6.8,48
+Day-2,Diabetic_Active,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,339.5,29.1,14.5,13.6,5.8,52
+Day-2,NonDiabetic_NotActive,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,310.4,21.3,17.5,11.6,6.8,58
+Day-2,NonDiabetic_NotActive,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,339.5,29.1,14.5,13.6,5.8,60
+Day-2,NonDiabetic_Active,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,310.4,21.3,17.5,11.6,6.8,53
+Day-2,NonDiabetic_Active,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,339.5,29.1,14.5,13.6,5.8,54
+Day-3,Diabetic_NotActive,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,313.6,21.6,17.6,11.8,6.9,46
+Day-3,Diabetic_NotActive,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,343,29.4,14.7,13.7,5.9,47
+Day-3,Diabetic_Active,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,313.6,21.6,17.6,11.8,6.9,47
+Day-3,Diabetic_Active,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,343,29.4,14.7,13.7,5.9,50
+Day-3,NonDiabetic_NotActive,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,313.6,21.6,17.6,11.8,6.9,56
+Day-3,NonDiabetic_NotActive,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,343,29.4,14.7,13.7,5.9,60
+Day-3,NonDiabetic_Active,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,313.6,21.6,17.6,11.8,6.9,54
+Day-3,NonDiabetic_Active,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,343,29.4,14.7,13.7,5.9,56
+Day-4,Diabetic_NotActive,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,316.8,21.8,17.8,11.9,6.9,41
+Day-4,Diabetic_NotActive,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,346.5,29.7,14.8,13.9,5.9,42
+Day-4,Diabetic_Active,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,316.8,21.8,17.8,11.9,6.9,46
+Day-4,Diabetic_Active,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,346.5,29.7,14.8,13.9,5.9,48
+Day-4,NonDiabetic_NotActive,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,316.8,21.8,17.8,11.9,6.9,56
+Day-4,NonDiabetic_NotActive,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,346.5,29.7,14.8,13.9,5.9,59
+Day-4,NonDiabetic_Active,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,316.8,21.8,17.8,11.9,6.9,50
+Day-4,NonDiabetic_Active,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,346.5,29.7,14.8,13.9,5.9,56
+Day-5,Diabetic_NotActive,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,320,22,18,12,7,42
+Day-5,Diabetic_NotActive,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,350,30,15,14,6,47
+Day-5,Diabetic_Active,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,320,22,18,12,7,43
+Day-5,Diabetic_Active,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,350,30,15,14,6,58
+Day-5,NonDiabetic_NotActive,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,320,22,18,12,7,57
+Day-5,NonDiabetic_NotActive,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,350,30,15,14,6,60
+Day-5,NonDiabetic_Active,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,320,22,18,12,7,52
+Day-5,NonDiabetic_Active,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,350,30,15,14,6,57
+Day-6,Diabetic_NotActive,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,323.2,22.2,18.2,12.1,7.1,38
+Day-6,Diabetic_NotActive,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,353.5,30.3,15.2,14.1,6.1,40
+Day-6,Diabetic_Active,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,323.2,22.2,18.2,12.1,7.1,40
+Day-6,Diabetic_Active,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,353.5,30.3,15.2,14.1,6.1,47
+Day-6,NonDiabetic_NotActive,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,323.2,22.2,18.2,12.1,7.1,53
+Day-6,NonDiabetic_NotActive,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,353.5,30.3,15.2,14.1,6.1,59
+Day-6,NonDiabetic_Active,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,323.2,22.2,18.2,12.1,7.1,48
+Day-6,NonDiabetic_Active,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,353.5,30.3,15.2,14.1,6.1,54
+Day-7,Diabetic_NotActive,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,326.4,22.4,18.4,12.2,7.1,40
+Day-7,Diabetic_NotActive,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,357,30.6,15.3,14.3,6.1,42
+Day-7,Diabetic_Active,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,326.4,22.4,18.4,12.2,7.1,46
+Day-7,Diabetic_Active,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,357,30.6,15.3,14.3,6.1,49
+Day-7,NonDiabetic_NotActive,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,326.4,22.4,18.4,12.2,7.1,58
+Day-7,NonDiabetic_NotActive,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,357,30.6,15.3,14.3,6.1,60
+Day-7,NonDiabetic_Active,Veg,Dinner,8:00 PM,Grilled tofu + vegetables,326.4,22.4,18.4,12.2,7.1,50
+Day-7,NonDiabetic_Active,Non-Veg,Dinner,8:00 PM,Grilled fish + vegetables,357,30.6,15.3,14.3,6.1,54
